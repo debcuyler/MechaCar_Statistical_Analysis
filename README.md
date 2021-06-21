@@ -33,5 +33,6 @@ T-Tests were completed on the entire population of suspension coils and then aga
 
 ![T-Test lot 3 - deliverable 3](https://user-images.githubusercontent.com/80215894/122682584-5f737a80-d1c8-11eb-9bc0-e94e347cc73c.png)
 
-
+## Study Design: MechaCar vs Competition
+My study would be around fuel efficiency grouped by vehicle class. The question needing answered is whether the mpg of MechaCars is better than other competitors. An ANOVA tests could be used for this study. ANOVA tests are used to compare the means of a continuous numerical variable across a number of groups (cars based on vehicle class). A one-way ANOVA is used to test the means of a single dependent variable across a single independent variable with multiple groups(fuel efficiency(mpg) of different cars based on vehicle class). To complete this study, mpg data of all the concerned manufacturers are required. The null hypotheses is that the mean mpg of all groups are equal. The alternate hypotheses is that at least one group mean is different from all other groups.
 
